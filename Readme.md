@@ -34,22 +34,22 @@ python3 -m venv venv
 ### Activate Virtual Environment
 On Windows:
 
-\`\`\`bash
+```bash
 venv\Scripts\activate
-\`\`\`
+```
 
 On macOS and Linux:
 
-\`\`\`bash
+```bash
 source venv/bin/activate
-\`\`\`
+```
 
 ### Install Dependencies
 Install the project dependencies using pip:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### Configure Environment Variables
 Create a `.env` file in the project directory and add the necessary environment variables specific to your project.
@@ -58,12 +58,12 @@ Create a `.env` file in the project directory and add the necessary environment 
 
 After successfully installing the project and setting up your environment, you can run the Django development server with the following command:
 
-\`\`\`bash
+```bash
 python manage.py runserver
-\`\`\`
+```
 
 Once the development server starts, you can access the DecaSafe project at [http://localhost:8000/](http://localhost:8000/).
 
 ---
 
-Feel free to reach out for any assistance 
+Feel free to reach out for any assistance or questions!
