@@ -13,23 +13,23 @@ Before you start, make sure you have the following installed on your machine:
 ### Clone the Repository
 Clone the DecaSafe repository to your local machine using the following command:
 
-\`\`\`bash
+```bash
 git clone [repository_url] DecaSafe
-\`\`\`
+```
 
 ### Navigate to Project Directory
 Change your working directory to the project folder:
 
-\`\`\`bash
+```bash
 cd DecaSafe
-\`\`\`
+```
 
 ### Create a Virtual Environment
 It's recommended to use a virtual environment to isolate project dependencies. Create a virtual environment with:
 
-\`\`\`bash
+```bash
 python3 -m venv venv
-\`\`\`
+```
 
 ### Activate Virtual Environment
 On Windows:
